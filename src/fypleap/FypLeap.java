@@ -13,7 +13,7 @@ import java.io.IOException;
 class LeapListener extends Listener{
     public Robot robot;
     public void onInit(Controller controller){
-        System.out.println("Initialized");
+        System.out.println("Initialized ");
     } 
     
     public void onConnect(Controller controller){
